@@ -6,4 +6,4 @@
 
 
 SELECT COUNT(*)
-FROM reviews
+FROM reviews;
